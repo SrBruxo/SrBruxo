@@ -36,7 +36,6 @@ PRIVATE BOT
 <a href="https://github.com/mhankbarbar/termux-wabot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/mhankbarbar/termux-wabot?label=Watchers&color=blue&style=flat-square"></a>
 
 <a href="https://www.codefactor.io/repository/github/mhankbarbar/termux-wabot"><img src="https://www.codefactor.io/repository/github/mhankbarbar/termux-wabot/badge" alt="CodeFactor" /></a>
-
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/MAINTENED-YES-blue.svg"</a>
 
-</p>
+</p
